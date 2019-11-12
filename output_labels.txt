@@ -1,0 +1,10 @@
+bus
+family sedan
+fire engine
+heavy truck
+jeep
+minibus
+racing car
+suv
+taxi
+truck
